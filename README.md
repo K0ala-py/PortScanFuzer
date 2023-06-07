@@ -17,7 +17,8 @@ python3 portscan.py <IP or ADDRESS>
     
 ## Note
 
-you must install "requirements.txt"
+- using the ADDRESS do not insert "https://" / "http://"
+- you must install "requirements.txt"
 ```bash
 pip install -r requirements.txt
 ```
